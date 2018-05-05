@@ -1,0 +1,8 @@
+prefix=/home/mzh/hector_quadrotor_tutorial/devel
+
+Name: unique_id
+Description: Description of unique_id
+Version: 1.0.6
+Cflags: -I/home/mzh/hector_quadrotor_tutorial/src/unique_identifier/unique_id/include -I/usr/include
+Libs: -L/home/mzh/hector_quadrotor_tutorial/devel/lib 
+Requires: uuid_msgs

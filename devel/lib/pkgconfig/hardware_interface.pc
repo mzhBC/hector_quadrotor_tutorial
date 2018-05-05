@@ -1,0 +1,8 @@
+prefix=/home/mzh/hector_quadrotor_tutorial/devel
+
+Name: hardware_interface
+Description: Description of hardware_interface
+Version: 0.14.2
+Cflags: -I/home/mzh/hector_quadrotor_tutorial/src/ros_control/hardware_interface/include
+Libs: -L/home/mzh/hector_quadrotor_tutorial/devel/lib 
+Requires: roscpp

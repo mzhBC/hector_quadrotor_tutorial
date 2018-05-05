@@ -1,0 +1,8 @@
+prefix=/home/mzh/hector_quadrotor_tutorial/devel
+
+Name: combined_robot_hw_tests
+Description: Description of combined_robot_hw_tests
+Version: 0.14.2
+Cflags: -I/home/mzh/hector_quadrotor_tutorial/src/ros_control/combined_robot_hw_tests/include
+Libs: -L/home/mzh/hector_quadrotor_tutorial/devel/lib -lcombined_robot_hw_tests
+Requires: combined_robot_hw hardware_interface roscpp

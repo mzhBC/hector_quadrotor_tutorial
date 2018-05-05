@@ -1,0 +1,8 @@
+prefix=/home/mzh/hector_quadrotor_tutorial/install
+
+Name: gazebo_dev
+Description: Description of gazebo_dev
+Version: 2.5.15
+Cflags: 
+Libs: -L/home/mzh/hector_quadrotor_tutorial/install/lib 
+Requires: 

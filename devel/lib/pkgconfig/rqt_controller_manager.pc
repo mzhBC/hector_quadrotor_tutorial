@@ -1,0 +1,8 @@
+prefix=/home/mzh/hector_quadrotor_tutorial/devel
+
+Name: rqt_controller_manager
+Description: Description of rqt_controller_manager
+Version: 0.14.2
+Cflags: 
+Libs: -L/home/mzh/hector_quadrotor_tutorial/devel/lib 
+Requires: 

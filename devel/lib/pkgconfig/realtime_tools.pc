@@ -1,0 +1,8 @@
+prefix=/home/mzh/hector_quadrotor_tutorial/devel
+
+Name: realtime_tools
+Description: Description of realtime_tools
+Version: 1.11.0
+Cflags: -I/home/mzh/hector_quadrotor_tutorial/src/realtime_tools/include
+Libs: -L/home/mzh/hector_quadrotor_tutorial/devel/lib -lrealtime_tools
+Requires: roscpp rospy

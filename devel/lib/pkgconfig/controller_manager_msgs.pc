@@ -1,0 +1,8 @@
+prefix=/home/mzh/hector_quadrotor_tutorial/devel
+
+Name: controller_manager_msgs
+Description: Description of controller_manager_msgs
+Version: 0.14.2
+Cflags: -I/home/mzh/hector_quadrotor_tutorial/devel/include
+Libs: -L/home/mzh/hector_quadrotor_tutorial/devel/lib 
+Requires: std_msgs message_runtime

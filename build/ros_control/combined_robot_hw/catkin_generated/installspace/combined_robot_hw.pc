@@ -1,0 +1,8 @@
+prefix=/home/mzh/hector_quadrotor_tutorial/install
+
+Name: combined_robot_hw
+Description: Description of combined_robot_hw
+Version: 0.14.2
+Cflags: -I/home/mzh/hector_quadrotor_tutorial/install/include
+Libs: -L/home/mzh/hector_quadrotor_tutorial/install/lib -lcombined_robot_hw
+Requires: hardware_interface pluginlib roscpp

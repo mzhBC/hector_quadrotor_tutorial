@@ -1,0 +1,8 @@
+prefix=/home/mzh/hector_quadrotor_tutorial/devel
+
+Name: controller_interface
+Description: Description of controller_interface
+Version: 0.14.2
+Cflags: -I/home/mzh/hector_quadrotor_tutorial/src/ros_control/controller_interface/include
+Libs: -L/home/mzh/hector_quadrotor_tutorial/devel/lib 
+Requires: roscpp hardware_interface pluginlib

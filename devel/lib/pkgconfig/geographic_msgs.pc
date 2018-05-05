@@ -1,0 +1,8 @@
+prefix=/home/mzh/hector_quadrotor_tutorial/devel
+
+Name: geographic_msgs
+Description: Description of geographic_msgs
+Version: 0.5.3
+Cflags: -I/home/mzh/hector_quadrotor_tutorial/devel/include
+Libs: -L/home/mzh/hector_quadrotor_tutorial/devel/lib 
+Requires: message_runtime geometry_msgs uuid_msgs std_msgs

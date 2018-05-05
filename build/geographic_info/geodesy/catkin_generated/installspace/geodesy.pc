@@ -1,0 +1,8 @@
+prefix=/home/mzh/hector_quadrotor_tutorial/install
+
+Name: geodesy
+Description: Description of geodesy
+Version: 0.5.3
+Cflags: -I/home/mzh/hector_quadrotor_tutorial/install/include
+Libs: -L/home/mzh/hector_quadrotor_tutorial/install/lib -lgeoconv
+Requires: geographic_msgs geometry_msgs sensor_msgs tf unique_id uuid_msgs

@@ -1,0 +1,8 @@
+prefix=/home/mzh/hector_quadrotor_tutorial/devel
+
+Name: teleop_twist_keyboard
+Description: Description of teleop_twist_keyboard
+Version: 0.6.1
+Cflags: 
+Libs: -L/home/mzh/hector_quadrotor_tutorial/devel/lib 
+Requires: 
